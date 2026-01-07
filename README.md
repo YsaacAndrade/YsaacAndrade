@@ -1,7 +1,7 @@
 ## 👋 Hey there!
 
 I'm Ysaac, a Computer Science student from Brazil 🇧🇷  
-Currently learning **Python, **Java** and **C**, and building projects to improve my programming skills.
+Currently learning **Python**, **Java** and **C**, and building projects to improve my programming skills.
 
 📫 **Contact:**  
 - 📧 Email: monaniakira@gmail.com  
