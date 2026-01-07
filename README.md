@@ -9,7 +9,7 @@ Currently studying and building projects using **Python**, **Java**, and **C**, 
 
 ### 🇧🇷 PT-BR
 
-Sou **Ysaac**, estudante de Ciência da Computação no Brasil 🇧🇷  
+Eu sou o **Ysaac**, um estudante de Ciência da Computação no Brasil 🇧🇷  
 Atualmente estudo e desenvolvo projetos utilizando **Python**, **Java** e **C**, com foco em aprimorar continuamente minhas habilidades de programação e resolução de problemas.
 
 📫 **Contact:**  
