@@ -12,6 +12,6 @@ Currently studying and building projects using **Python**, **Java**, and **C**, 
 Eu sou o **Ysaac**, um estudante de Ciência da Computação no Brasil 🇧🇷  
 Atualmente estudo e desenvolvo projetos utilizando **Python**, **Java** e **C**, com foco em aprimorar continuamente minhas habilidades de programação e resolução de problemas.
 
-📫 **Contact:**  
+📫 **Contact/Contato:**  
 - 📧 Email: monaniakira@gmail.com  
 - 💼 LinkedIn: https://www.linkedin.com/in/ysaac-juarez-de-andrade-9b822030b/
