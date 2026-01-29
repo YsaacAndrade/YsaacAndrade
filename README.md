@@ -11,7 +11,7 @@ My main goal is to **professionalize as a Java developer**, applying solid funda
 
 ## 🇧🇷 PT-BR
 
-## 👋 Olá!
+## 👋 Olá! Sou o Ysaac, tudo bem?
 
 Tenho 19 anos e sou estudante de **Ciência da Computação**, atualmente seguindo uma formação **autodidata** no Brasil 🇧🇷.
 
