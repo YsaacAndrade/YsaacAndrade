@@ -13,7 +13,7 @@ My main goal is to **professionalize as a Java developer**, applying solid funda
 
 ## 👋 Olá! Sou o Ysaac, tudo bem?
 
-Tenho 19 anos e sou estudante de **Ciência da Computação**, atualmente seguindo uma formação **autodidata** no Brasil 🇧🇷.
+Tenho 19 anos e sou estudante de **Ciência da Computação**, atualmente seguindo uma formação **autodidata** no Brasil 🇧🇷.  
 Atualmente estudo e desenvolvo projetos utilizando **Python**, **Java** e **C**, com foco em **desenvolvimento backend e full stack**, buscando me **profissionalizar como desenvolvedor Java**.
 
 Tenho interesse em desenvolvimento de software, fundamentos da computação e na construção de projetos práticos que reforcem boas práticas, lógica e arquitetura de código.
