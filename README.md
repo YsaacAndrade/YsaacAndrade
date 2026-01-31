@@ -20,5 +20,5 @@ Tenho interesse em desenvolvimento de software, fundamentos da computação e na
 
 
 📫 **Contact/Contato:**  
-- 📧 Email: monaniakira@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/ysaac-juarez-de-andrade-9b822030b/
+- Email: monaniakira@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/ysaac-juarez-de-andrade-9b822030b/
