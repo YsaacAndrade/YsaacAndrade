@@ -1,14 +1,12 @@
 <h1 align="center">Ysaac Andrade</h1>
 
 <p align="center">
-Computer Science Student • Backend Development
+Estudante de Ciência da Computação • Desenvolvimento Backend
 </p>
 
 ---
 
-## 🇧🇷 PT-BR
-
-Olá! Sou **Ysaac**, tenho 19 anos e estudo **Ciência da Computação** de forma autodidata no Brasil.
+Olá! Sou **Ysaac**, tenho 19 anos e sigo uma formação em **Ciência da Computação** no Brasil.
 
 Atualmente estudo e desenvolvo projetos com foco em **desenvolvimento backend**, utilizando principalmente:
 
@@ -22,7 +20,7 @@ Meu objetivo é me **profissionalizar como desenvolvedor Java** e construir um p
 
 ---
 
-### Contato 📫
+### Contato
 
 Email: monaniakira@gmail.com  
 LinkedIn: https://www.linkedin.com/in/ysaac-juarez-de-andrade-9b822030b/
