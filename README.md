@@ -1,24 +1,28 @@
-## 🇺🇸 EN-US
+<h1 align="center">Ysaac Andrade</h1>
 
-## 👋 Hey there!
-
-I'm **Ysaac**, a Computer Science student from Brazil.  
-Currently studying and building projects using **Python**, **Java**, and **C**, with a strong focus on **backend and full stack development**, continuously improving my programming and problem-solving skills.
-
-My main goal is to **professionalize as a Java developer**, applying solid fundamentals and best practices in real-world projects.
+<p align="center">
+Computer Science Student • Backend Development
+</p>
 
 ---
 
 ## 🇧🇷 PT-BR
 
-## 👋 Olá! Sou o Ysaac, tudo bem?
+Olá! Sou **Ysaac**, tenho 19 anos e estudo **Ciência da Computação** de forma autodidata no Brasil.
 
-Tenho 19 anos e sou estudante de **Ciência da Computação**, no momento estou seguindo uma formação **autodidata** no Brasil.  
-Atualmente estudo e desenvolvo projetos utilizando **Python**, **Java** e **C**, com foco em **desenvolvimento backend e full stack**, buscando me **profissionalizar como desenvolvedor Java**.
+Atualmente estudo e desenvolvo projetos com foco em **desenvolvimento backend**, utilizando principalmente:
 
-Tenho interesse em desenvolvimento de software, fundamentos da computação e na construção de projetos práticos que reforcem boas práticas, lógica e arquitetura de código.
+- Java
+- Python
+- C
 
+Tenho interesse em **desenvolvimento de software**, **fundamentos da computação** e na construção de projetos que reforcem **lógica, boas práticas e arquitetura de código**.
 
-📫 **Contact/Contato:**  
-- Email: monaniakira@gmail.com  
-- LinkedIn: https://www.linkedin.com/in/ysaac-juarez-de-andrade-9b822030b/
+Meu objetivo é me **profissionalizar como desenvolvedor Java** e construir um portfólio sólido através de projetos práticos.
+
+---
+
+### Contato 📫
+
+Email: monaniakira@gmail.com  
+LinkedIn: https://www.linkedin.com/in/ysaac-juarez-de-andrade-9b822030b/
