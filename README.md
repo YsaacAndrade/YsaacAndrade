@@ -22,5 +22,5 @@ Meu objetivo é me **profissionalizar como desenvolvedor Java** e construir um p
 
 ### Contato 📫
 
-Email: monaniakira@gmail.com 
+Email: ysaacandrade07@gmail.com 
 LinkedIn: https://www.linkedin.com/in/ysaac-juarez-de-andrade-9b822030b/
