@@ -8,6 +8,7 @@
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
 ---
@@ -32,6 +33,7 @@ Meu objetivo é me profissionalizar como desenvolvedor Java e construir um portf
 | Build | Maven, Gradle |
 | Manipulação de dados | JSON (Gson, Jackson) |
 | IDE | IntelliJ IDEA, VS Code |
+| OS | Linux, Windows
 
 ---
 
