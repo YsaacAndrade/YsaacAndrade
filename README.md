@@ -38,8 +38,8 @@ Meu objetivo é me profissionalizar como desenvolvedor Java e construir um portf
 ### Estatísticas
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YsaacAndrade&show_icons=true&theme=dark&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YsaacAndrade&layout=compact&theme=dark&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-six-chi-18.vercel.app/api?username=YsaacAndrade&show_icons=true&theme=dark&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-six-chi-18.vercel.app/api/top-langs/?username=YsaacAndrade&layout=compact&theme=dark&hide_border=true" />
 </p>
 
 ---
